@@ -8,7 +8,7 @@ In addition to my blockchain expertise, I have a strong background in developing
 
 
 ## About Me
-- 🔭 I’m currently working on [Your Project Name](https://github.com/sherjeelk/SuperPaisa_Mobile2)
+- 🔭 I’m currently working on [SuperPaisa](https://github.com/sherjeelk/SuperPaisa_Mobile2)
 - 🌱 I’m currently involved in AI, blockchain and SAAS.
 - 💬 Ask me about web development, cryptocurrency payments, and decentralized apps.
 - 📫 How to reach me: [Email me](mailto:sherjeelk@gmail.com)
