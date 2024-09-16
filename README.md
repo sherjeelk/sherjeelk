@@ -15,7 +15,7 @@ In addition to my blockchain expertise, I have a strong background in developing
 - 😄 Pronouns: He/Him
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sherjeelk)
+- [LinkedIn](https://www.linkedin.com/in/sherjeelkhalid)
 - [Discord](https://discordapp.com/users/sherjeel.)
 
 ![Profile views](https://komarev.com/ghpvc/?username=sherjeelk)
