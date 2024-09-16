@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**sherjeelk/sherjeelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a dedicated and innovative developer, I bring a wealth of experience in **Web**, **MOBILE**, **MOBILE** & **Blockchain technologies**. 💡 Currently, I am spearheading the development of a **remittance and payment application** at **SuperPaisa**, leveraging blockchain to enable **instant cross-border transactions**. 🌍💸
 
-Here are some ideas to get you started:
+🚀 Previously, I achieved notable success at **Soonami GMBH** by securing **third place** in the **Soonami/Celo Blockchain Hackathon**. 🏅 My work there involved advanced blockchain development using **Hardhat**, **Solidity**, and **Router Protocol**, focusing on **smart contract deployment**, **verification**, and **wallet creation**. 🛠️🔐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to my blockchain expertise, I have a strong background in developing **SaaS applications** and **web solutions**. 🌐 During my time as a freelancer for **Idea Technologies**, I led the development of **Whale**, a **B2B SaaS platform** that allows users to build websites using pre-built templates. My role encompassed **backend development**, **API integration**, and **deployment automation**. 🖥️📦
+
+
+## About Me
+- 🔭 I’m currently working on [Your Project Name](https://github.com/sherjeelk/SuperPaisa_Mobile2)
+- 🌱 I’m currently involved in AI, blockchain and SAAS.
+- 💬 Ask me about web development, cryptocurrency payments, and decentralized apps.
+- 📫 How to reach me: [Email me](mailto:sherjeelk@gmail.com)
+- 😄 Pronouns: He/Him
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sherjeelk)
+- [Discord](https://discordapp.com/users/sherjeel.)
+
+![Profile views](https://komarev.com/ghpvc/?username=sherjeelk)
