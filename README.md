@@ -1,5 +1,5 @@
-#![linkedin_banner](https://github.com/user-attachments/assets/b947aa24-0a94-4a0b-970e-92a5434c286c)
- Hi there! 👋
+![linkedin_banner](https://github.com/user-attachments/assets/b947aa24-0a94-4a0b-970e-92a5434c286c)
+# Hi there! 👋
 
 As a dedicated and innovative developer, I bring a wealth of experience in **Web**, **MOBILE**, **SAAS** & **Blockchain technologies**. 💡 Currently, I am spearheading the development of a **remittance and payment application** at **SuperPaisa**, leveraging blockchain to enable **instant cross-border transactions**. 🌍💸
 
