@@ -1,8 +1,9 @@
-# Hi there! 👋
+#![linkedin_banner](https://github.com/user-attachments/assets/b947aa24-0a94-4a0b-970e-92a5434c286c)
+ Hi there! 👋
 
 As a dedicated and innovative developer, I bring a wealth of experience in **Web**, **MOBILE**, **SAAS** & **Blockchain technologies**. 💡 Currently, I am spearheading the development of a **remittance and payment application** at **SuperPaisa**, leveraging blockchain to enable **instant cross-border transactions**. 🌍💸
 
-🚀 Previously, I achieved notable success at **Soonami GMBH** by securing **third place** in the **Soonami/Celo Blockchain Hackathon**. 🏅 My work there involved advanced blockchain development using **Hardhat**, **Solidity**, and **Router Protocol**, focusing on **smart contract deployment**, **verification**, and **wallet creation**. 🛠️🔐
+🚀 Previously, I got recognition from **Soonami GMBH** by securing **third place** in the **Soonami/Celo Blockchain Hackathon**. 🏅 My work there involved advanced blockchain development using **Hardhat**, **Solidity**, and **Router Protocol**, focusing on **smart contract deployment**, **verification**, and **wallet creation**. 🛠️🔐
 
 In addition to my blockchain expertise, I have a strong background in developing **SaaS applications** and **web solutions**. 🌐 During my time as a freelancer for **Idea Technologies**, I led the development of **Whale**, a **B2B SaaS platform** that allows users to build websites using pre-built templates. My role encompassed **backend development**, **API integration**, and **deployment automation**. 🖥️📦
 
